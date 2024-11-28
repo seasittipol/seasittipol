@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm full stack developer</h1>
+<h1 align="left">Hi 👋, I'm back end developer</h1>
 
 - 👋 I’m Best.
-- 👀 I’m interested in web-app/mobile-app/web3/smart-contact/DefiApp/Blockchain
-- 🌱 I’m currently learning Next.js/Nest.js/docker
+- 👀 I’m interesting web-app/mobile-app/web3/smart-contact/DefiApp/Blockchain
+- 🌱 I’m currently learning Nest.js/docker/cloud
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
